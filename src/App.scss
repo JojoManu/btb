@@ -342,7 +342,7 @@ header h1 {
 
 .portfolio-item {
 	max-width: 100%;
-	margin-bottom: 15px;
+	margin: 15px;
 	text-align: center;
 }
 
@@ -380,6 +380,7 @@ header h1 {
 }
 
 .section-title {
+	margin-top: 0px;
 	padding-top: 5%;
 	padding-bottom: 5%;
 	font: 18px/24px 'opensans-bold', sans-serif;
@@ -427,3 +428,45 @@ footer a:focus {
 	font-size: 22px;
 }
 
+
+
+
+
+
+
+.section {
+	max-height: 250px;
+	padding: 1rem;
+	overflow-y: auto;
+	direction: ltr;
+	scrollbar-color: #d4aa70 #e4e4e4;
+	scrollbar-width: thin;
+  
+	h2 {
+	  font-size: 1.5rem;
+	  font-weight: 700;
+	  margin-bottom: 1rem;
+	}
+  
+	p + p {
+	  margin-top: 1rem;
+	}
+  }
+  
+  ::-webkit-scrollbar {
+	width: 20px;
+  }
+  
+  ::-webkit-scrollbar-track {
+	background-color: transparent;
+	border-radius: 100px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+	border-radius: 100px;
+	background-image: url(../public/images/sword.png);
+	background-size:100px 250px;  
+    background-position:50%;
+    display: block;
+  }
+  

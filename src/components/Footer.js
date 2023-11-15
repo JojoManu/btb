@@ -5,10 +5,13 @@ class Footer extends Component {
     render() {
         return (
             <footer>
-                <div className="col-md-12">
-                    <a href="https://account.venmo.com/u/Kylie-Chen-4">
-                        <Icon icon="ion:logo-venmo" width="100" />
-                    </a>
+                <div style={{ margin: "75px" }} className="col-md-12">
+                    <span style={{ marginBottom: "75px" }}>
+                        <a href="https://account.venmo.com/u/Kylie-Chen-4">
+                            <Icon icon="ion:logo-venmo" width="100" />
+                        </a>
+                    </span>
+
                     {/* <div className="social-links">{networks}</div> */}
 
                     <div className="copyright py-4 text-center">
