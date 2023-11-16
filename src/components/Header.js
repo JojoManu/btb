@@ -61,7 +61,7 @@ class Header extends Component {
                         speed={50}
                         cursor={false}
                         style={{
-                            fontSize: "2em",
+                            fontSize: "8em",
                             display: "inline-block",
                         }}
                     />
@@ -84,9 +84,9 @@ class Header extends Component {
                                 <TypeAnimation
                                     sequence={[
                                         "FIGHT ON !",
-                                        1000,
+                                        1500,
                                         "TROJAN NATION",
-                                        1000,
+                                        1500,
                                     ]}
                                     cursor={false}
                                     wrapper="span"
