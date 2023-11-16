@@ -53,6 +53,7 @@ class Header extends Component {
                 id="home"
                 style={{ height: window.innerHeight - 150, display: "block" }}
             >
+                <h2 className="blink">only on friday 1-5 and saturday 8-11</h2>
                 <div className="title-container">
                     <TypeAnimation
                         className="title-styles"
