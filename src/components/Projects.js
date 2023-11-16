@@ -14,7 +14,9 @@ class Projects extends Component {
             <>
                 <section id="portfolio">
                     <h1 className="section-title" style={{ color: "black" }}>
-                        <span>TATTOOS</span>
+                        <span style={{ fontWeight: "bold" }}>TATTOOS</span>
+                        <br />
+                        <span>1 for 3$ - 2 for 5$</span>
                     </h1>
                     <div
                         className="col-sm-12 col-md-6 col-lg-4"

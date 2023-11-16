@@ -469,4 +469,18 @@ footer a:focus {
     background-position:50%;
     display: block;
   }
-  
+
+.blink {
+	top: 0;
+	width: -webkit-fill-available;
+	height: 50px;
+	position: absolute;
+	animation: blinker 3s linear infinite;
+	color: red;
+	font-family: sans-serif;
+}
+@keyframes blinker {
+	50% {
+		opacity: 0;
+	}
+}
