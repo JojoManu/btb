@@ -51,7 +51,7 @@ class Header extends Component {
         return (
             <header
                 id="home"
-                style={{ height: window.innerHeight - 140, display: "block" }}
+                style={{ height: window.innerHeight - 150, display: "block" }}
             >
                 <div className="title-container">
                     <TypeAnimation
@@ -61,7 +61,7 @@ class Header extends Component {
                         speed={50}
                         cursor={false}
                         style={{
-                            fontSize: "8em",
+                            fontSize: "5em",
                             display: "inline-block",
                         }}
                     />
@@ -84,15 +84,15 @@ class Header extends Component {
                                 <TypeAnimation
                                     sequence={[
                                         "FIGHT ON !",
-                                        1500,
+                                        1000,
                                         "TROJAN NATION",
-                                        1500,
+                                        1000,
                                     ]}
                                     cursor={false}
                                     wrapper="span"
                                     speed={20}
                                     style={{
-                                        fontSize: "2em",
+                                        fontSize: "1em",
                                         display: "inline-block",
                                     }}
                                     repeat={Infinity}
