@@ -1,6 +1,7 @@
 {
   "name": "btb",
   "version": "0.1.0",
+  "homepage": "https://JojoManu.github.io/BeatTheBruins/",
   "private": true,
   "dependencies": {
     "@iconify/icons-logos": "^1.2.36",
