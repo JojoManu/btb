@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/btb/static/css/main.2d94282e.css",
-    "main.js": "/btb/static/js/main.f8b5c349.js",
+    "main.js": "/btb/static/js/main.e5afc84c.js",
     "static/js/787.b5967db0.chunk.js": "/btb/static/js/787.b5967db0.chunk.js",
     "static/media/sword.png": "/btb/static/media/sword.148e12861d7fb53387a5.png",
     "index.html": "/btb/index.html",
     "main.2d94282e.css.map": "/btb/static/css/main.2d94282e.css.map",
-    "main.f8b5c349.js.map": "/btb/static/js/main.f8b5c349.js.map",
+    "main.e5afc84c.js.map": "/btb/static/js/main.e5afc84c.js.map",
     "787.b5967db0.chunk.js.map": "/btb/static/js/787.b5967db0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d94282e.css",
-    "static/js/main.f8b5c349.js"
+    "static/js/main.e5afc84c.js"
   ]
 }
