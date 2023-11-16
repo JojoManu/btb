@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BeatTheBruins/static/css/main.4ba1c0de.css",
+    "main.js": "/BeatTheBruins/static/js/main.69717514.js",
+    "static/js/787.b5967db0.chunk.js": "/BeatTheBruins/static/js/787.b5967db0.chunk.js",
+    "static/media/sword.png": "/BeatTheBruins/static/media/sword.148e12861d7fb53387a5.png",
+    "index.html": "/BeatTheBruins/index.html",
+    "main.4ba1c0de.css.map": "/BeatTheBruins/static/css/main.4ba1c0de.css.map",
+    "main.69717514.js.map": "/BeatTheBruins/static/js/main.69717514.js.map",
+    "787.b5967db0.chunk.js.map": "/BeatTheBruins/static/js/787.b5967db0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ba1c0de.css",
+    "static/js/main.69717514.js"
+  ]
+}
